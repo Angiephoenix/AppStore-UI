@@ -8,6 +8,7 @@ Before you can start working on your Expo project, you'll need to install its de
 npm install
 # OR
 yarn install
+```sh
 
 ## Running the App
 
