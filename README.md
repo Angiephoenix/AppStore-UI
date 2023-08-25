@@ -14,8 +14,11 @@ yarn install
 
 Once you have the dependencies installed, you can run your app in development mode. This will enable you to see your app on both your device and the Expo app:
 
-`npm start`
+```sh
+npm start
 # OR
-`yarn start`
+yarn start
+```
+
 
 
