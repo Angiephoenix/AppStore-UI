@@ -1,13 +1,13 @@
-## Getting Started
+# Getting Started
 
-### Install Dev Dependencies
+## Install Dev Dependencies
 
 Before you can start working on your Expo project, you'll need to install its development dependencies. You can do this using either npm or Yarn:
 
 ```sh
 npm install
 ```
-# OR
+### OR
 ```sh
 yarn install
 ```
@@ -19,7 +19,7 @@ Once you have the dependencies installed, you can run your app in development mo
 ```sh
 npm start
 ```
-# OR
+### OR
 ```sh
 yarn start
 ```
