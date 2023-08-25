@@ -6,7 +6,7 @@ Before you can start working on your Expo project, you'll need to install its de
 
 ```sh
 npm install
-# OR
+OR
 yarn install
 ```
 
@@ -16,7 +16,7 @@ Once you have the dependencies installed, you can run your app in development mo
 
 ```sh
 npm start
-# OR
+OR
 yarn start
 ```
 
