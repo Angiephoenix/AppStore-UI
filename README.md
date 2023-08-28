@@ -30,7 +30,7 @@ If you're using a Mac and have the iOS Simulator installed, you can launch the a
 ```sh
 npm run ios
 ```
-# OR
+### OR
 ```sh
 yarn run ios
 ```
@@ -45,7 +45,7 @@ Run the following command:
 ```sh
 npm run android
 ```
-# OR
+### OR
 ```sh
 yarn run android
 ```
