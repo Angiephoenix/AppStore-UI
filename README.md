@@ -1,3 +1,14 @@
+<h1 align="center">
+    <img src="./assets/images/layout.png"
+        alt="app layout"
+        style="border-radius: 5%;"
+        width="800"
+        height="600"
+        />
+</h1>
+
+
+
 # Getting Started
 
 ## Install Dev Dependencies

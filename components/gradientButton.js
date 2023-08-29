@@ -5,7 +5,7 @@ import { LinearGradient } from "expo-linear-gradient";
 export default function GradientButton(props) {
     return(
         <LinearGradient 
-            colors={['rgba(98,4,162,1)', 'rgba(246,6,6,1)']}
+            colors={['rgba(245,99,99,1)', 'rgba(183,99,241,1)']}
             end={{x:1, y:1}}
             start={{x:0.1, y:0.2}}
             className={`rounded-full ${props.containerClass}`}
